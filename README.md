@@ -11,6 +11,8 @@ Install the requirements.txt in your python environment:
 
 Run main.py and a pygame window will open!
 
+There are 5 livels
+
 Enjoy!
 
 Resources
